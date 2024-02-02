@@ -27,6 +27,6 @@ If you'd like to contribute to the project, feel free to fork the repository, ma
 
 **License**
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [License](License) file for details.
 
 Thank you for using the Gaming Mouse Giveaway project! Good luck with your giveaway, and may the odds be ever in your participants' favor! 🎉🖱
