@@ -29,4 +29,4 @@ If you'd like to contribute to the project, feel free to fork the repository, ma
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-Thank you for using the Gaming Mouse Giveaway project! Good luck with your giveaway, and may the odds be ever in your participants' favor! 🎉🖱️![image](https://github.com/nisthaaa/Giveaway-Countdown-CLH/assets/91193444/dd95e1c9-6f0b-4f04-82f5-d68697d87a65)
+Thank you for using the Gaming Mouse Giveaway project! Good luck with your giveaway, and may the odds be ever in your participants' favor! 🎉🖱
